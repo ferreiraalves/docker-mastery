@@ -1,0 +1,3 @@
+## Get bash on container
+docker container exec -it CONTAINER bash
+
